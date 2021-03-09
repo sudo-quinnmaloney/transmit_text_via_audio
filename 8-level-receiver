@@ -20,7 +20,7 @@ A = 1 #amplitude of the signal
 FREQ_THRESHOLD = 30 #must be smaller than Fdev
 
 CHUNK = 1024
-RECORD_SECONDS = 48
+RECORD_SECONDS = 50
 CHANNELS = 1
 FORMAT = pyaudio.paInt16
 
